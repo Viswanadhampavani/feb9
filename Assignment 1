@@ -1,0 +1,13 @@
+num1=int(input ('enter the first number')) 
+num2=int(input ('enter the second number')) 
+ifnum1>=num2:
+ifnum1==num2:
+Print('Both numbers are same') 
+else:
+Print(First number is greater than second number') 
+else:
+Print('Second number is greater than first number')
+OUTPUT
+Enter the first number:20
+Enter the second number:15
+20 is greater than 15.
